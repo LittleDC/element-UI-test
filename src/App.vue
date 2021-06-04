@@ -6,6 +6,7 @@
       <router-link to="/test3">test3</router-link> |
       <router-link to="/test4">test4</router-link> |
       <router-link to="/test5">pagination</router-link>
+      <router-link to="/test9">message-box</router-link>
     </div>
     <router-view />
   </div>
