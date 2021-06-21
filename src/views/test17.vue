@@ -23,6 +23,7 @@
       <el-menu-item index="4"
         ><a href="https://www.ele.me" target="_blank">订单管理</a></el-menu-item
       >
+      <el-menu-item index="5">test</el-menu-item>
     </el-menu>
     <div class="line"></div>
     <el-menu
