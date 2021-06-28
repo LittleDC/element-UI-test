@@ -48,6 +48,10 @@
       >
       </el-date-picker>
     </div>
+    <br />
+    <div>
+      <el-date-picker v-model="value4" type="daterange"> </el-date-picker>
+    </div>
   </div>
 </template>
 
@@ -88,6 +92,7 @@ export default {
       value2: "",
       value3: "",
       value: "",
+      value4: "",
     };
   },
 };
